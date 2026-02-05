@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <date date="1858-08-26">August 26.</date>
+
+    <message num="1">
+        <heading from="Newfoundland" to="Valentia">Newfoundland to Valentia.</heading>
+        <text>“Why don’t you give ‘finis’<info>(signal)</info> when you have done?”</text>
+    </message>
+
+    <message num="2">
+        <heading from="Valentina" to="Newfoundland">Valentia to Newfoundland.</heading>
+        <text>“We have had storm, with thunder. Cable put to earth for one hour twenty-five
+            minutes.” <info>(Professor Thomson was testing from <time>9 A.M.</time> till <time>11.30
+                    A.M.</time> On the morning of <date date="1858-08-26">Thursday, August 26</date>, there was a
+                storm of heavy rain, accompanied by thunder and lightning, in Newfoundland. It
+                commenced at <time>2.30 A. M.</time>, and at<time> 3.05 A.M.</time> the lightning
+                was so intense that the end of the cable was put to earth for protection. At
+                    <time>4.30 A.M.</time> the storm ceased, and at <time>7.15 A. M.</time> the
+                weather is noted as having been since very fine.)</info> “Can’t read your signals.
+            Send slower, and repeat all.” “Your signals too weak to read.” “Your signals very weak.
+            Have twenty messages for you. Will you take them?” “Your signals better. Repeat.”</text>
+    </message>
+
+    <message num="3">
+        <heading from="Valentina" to="Newfoundland">Valentia to Newfoundland.</heading>
+        <text>“Try only one galvanometer in circuit. We must understand stoppage of Monday night and
+            learn how to manage.”</text>
+    </message>
+    <message num="4">
+        <heading from="Newfoundland" to="Valentia">Newfoundland to Valentia.</heading>
+        <text>“What do you mean by stoppage of Monday night?” “Understand. Go on.”</text>
+    </message>
+    <message num="5">
+        <heading from="Valentina" to="Newfoundland">Valentia to Newfoundland.</heading>
+        <text>“Saward to De Sauty:—T. H. Brooking &amp; Co. authorize an advance on your order by
+            Hepburn to extent of one hundred pounds.” “Thomson to De Sauty:—Your signals were very
+            weak Monday night at <time>1.12</time> Greenwich time. None came from<time> 2.44</time>
+            to <time>4.06.</time> Then very weak indeed. Improved later. At <time>8</time> good. We
+            sent one message eight times, from <time>2.45</time> till <time>5.12</time>. Had no
+            reply. Stoppage again from <time>2 </time>to <time>6</time> in the afternoon. Can you
+            explain why? Tell us each time.”</text>
+    </message>
+    <message num="6">
+        <heading from="Newfoundland" to="Valentia">Newfoundland to Valentia.</heading>
+        <meassage>“Understand. New York, <date>25 August</date>. Samuel Gurney, Esq., London:—Many
+            thanks for message received. Americans wild with joy. Great celebration throughout the
+            land, <date date="1858-09-01">September 1</date> and <date date="1858-09-02">2</date>. “C.W. FIELD.”</meassage>
+    </message>
+</root>
