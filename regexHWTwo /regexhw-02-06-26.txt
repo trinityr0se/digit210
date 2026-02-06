@@ -1,0 +1,20 @@
+1.)
+ find: &
+ replace: &amp: 
+ 
+ 2.) 
+ find: ^ +
+ replace: 
+ 
+ 3.) 
+ find: ^(.+)$
+ replace: <line>\1</line>
+ 
+ 4.)
+ find: <line>([IVXLC]+)</line>
+ replace: </sonnet>\n<sonnet number="\1">
+ 
+ 6.) maunually went in and delted sonnet 
+ 
+ 
+5.) I manually wrappped the root element around teh whole text. 
