@@ -1,0 +1,33 @@
+Adventure Time - Top Ambiguous Verbs:
+break: 75
+broken: 72
+cut: 70
+broke: 60
+breaking: 60
+run: 57
+runs: 57
+Runs: 57
+cutting: 54
+made: 52
+play: 52
+plays: 52
+PLAY: 52
+Plays: 52
+running: 52
+
+Regular Show - Top Ambiguous Verbs:
+breaks: 75
+broken: 72
+cut: 70
+cuts: 61
+breaking: 60
+runs: 57
+run: 57
+play: 52
+making: 52
+made: 52
+plays: 52
+running: 52
+Play: 52
+makes: 51
+make: 51
